@@ -1,0 +1,4 @@
+# ignore PyCache, JetBrains IDE files and venv
+.idea/
+__pycache__/
+venv/
